@@ -1,5 +1,5 @@
 # HDR
-Matlab code used to produce basic examples in my habilitation thesis.
+Matlab code used to produce basic examples in my habilitation thesis, available at https://hal.science/tel-05142432.
 
 - Run script_IntervalArithmetic to reproduce the examples of Section 1.1.1.
 - Run script_SquareRoot to reproduce Example 1.2.5.
